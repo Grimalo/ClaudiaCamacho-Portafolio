@@ -65,7 +65,7 @@ Modelo de **regresión logística** sobre datos transaccionales que predice el m
 
 ## Habilidades
 
-- **Lenguajes:** Python, SQL, TypeScript, JavaScript, Dart, C++
+- **Lenguajes:** Python, SQL, TypeScript, JavaScript, R
 - **Desarrollo de aplicaciones:** FlutterFlow (Flutter), Supabase Edge Functions, APIs REST, integración con modelos de IA
 - **Bases de datos:** PostgreSQL, Supabase (Auth, RLS), modelado relacional
 - **Ciencia de datos e IA:** Machine Learning, Deep Learning, NLP, scikit-learn, PyTorch, TensorFlow, Hugging Face, Pandas, Spark
